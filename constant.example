@@ -7,10 +7,10 @@
     Description
 */
 
-$user = "ICT-151";
-$pass = "Sasuke-kun11";
-$dbhost = 'localhost';
-$dbname = 'mcu';
+$user =
+$pass = 
+$dbhost =
+$dbname =
 ?>
 
 
