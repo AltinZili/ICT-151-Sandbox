@@ -1,0 +1,18 @@
+<?php
+/*
+    Projet:
+    Auteur: Altin Zili
+    Date: 
+    Version:
+    Description
+*/
+
+$user = "ICT-151";
+$pass = "Sasuke-kun11";
+$dbhost = 'localhost';
+$dbname = 'mcu';
+?>
+
+
+
+
